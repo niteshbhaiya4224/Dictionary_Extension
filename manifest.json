@@ -1,0 +1,15 @@
+{
+  "name": "Nitesh_Dictionary",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/book128.png"
+  },
+  "icons": {
+    "16": "images/book16.png",
+    "48": "images/book48.png",
+    "128": "images/book128.png"
+  },
+  "permissions": ["activeTab"]
+}
